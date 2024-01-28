@@ -10,8 +10,6 @@ from task_3 import my_dec_to_json
 from task_4 import my_deco_with_count
 
 
-
-
 @my_deco_with_count(5)
 @my_dec_to_json
 @game_rules
